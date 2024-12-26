@@ -13,7 +13,7 @@ clock = pygame.time.Clock()
 
 font1 = pygame.font.Font(None, 35)
 imgBG = pygame.image.load('5404360.jpg')
-imgBird = pygame.image.load('мори — копия.png')
+imgBird = pygame.image.load('мори.png')
 imgPT = pygame.image.load('галагала1.png')
 imgPB = pygame.image.load('галагала2.png')
 
